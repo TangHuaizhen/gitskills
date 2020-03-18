@@ -1,0 +1,1 @@
+1.es6 删除数组指定元素：arr.splice(arr.findIndex(item => item.id === id), 1)
